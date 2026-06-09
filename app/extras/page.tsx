@@ -16,7 +16,7 @@ export default function Extras() {
             src={bannerSobre}
             alt="Banner Extras"
             fill
-            className="object-cover object-center"
+            className="object-cover object-center" 
             priority
           />
           {/* Overlays */}
